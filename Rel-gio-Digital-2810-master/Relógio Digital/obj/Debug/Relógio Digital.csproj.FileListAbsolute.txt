@@ -1,0 +1,18 @@
+C:\Users\Gonçalo\Downloads\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\bin\Debug\Relógio Digital.exe.config
+C:\Users\Gonçalo\Downloads\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\bin\Debug\Relógio Digital.exe
+C:\Users\Gonçalo\Downloads\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\bin\Debug\Relógio Digital.pdb
+C:\Users\Gonçalo\Downloads\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\obj\Debug\Relógio Digital.csprojAssemblyReference.cache
+C:\Users\Gonçalo\Downloads\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\obj\Debug\Relógio_Digital.Form1.resources
+C:\Users\Gonçalo\Downloads\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\obj\Debug\Relógio_Digital.Properties.Resources.resources
+C:\Users\Gonçalo\Downloads\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\obj\Debug\Relógio Digital.csproj.GenerateResource.cache
+C:\Users\Gonçalo\Downloads\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\obj\Debug\Relógio Digital.exe
+C:\Users\Gonçalo\Downloads\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\obj\Debug\Relógio Digital.pdb
+C:\Users\Gonçalo\Source\Repos\Relogio-Digital-Finau\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\bin\Debug\Relógio Digital.exe.config
+C:\Users\Gonçalo\Source\Repos\Relogio-Digital-Finau\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\bin\Debug\Relógio Digital.exe
+C:\Users\Gonçalo\Source\Repos\Relogio-Digital-Finau\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\bin\Debug\Relógio Digital.pdb
+C:\Users\Gonçalo\Source\Repos\Relogio-Digital-Finau\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\obj\Debug\Relógio Digital.csprojAssemblyReference.cache
+C:\Users\Gonçalo\Source\Repos\Relogio-Digital-Finau\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\obj\Debug\Relógio_Digital.Form1.resources
+C:\Users\Gonçalo\Source\Repos\Relogio-Digital-Finau\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\obj\Debug\Relógio_Digital.Properties.Resources.resources
+C:\Users\Gonçalo\Source\Repos\Relogio-Digital-Finau\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\obj\Debug\Relógio Digital.csproj.GenerateResource.cache
+C:\Users\Gonçalo\Source\Repos\Relogio-Digital-Finau\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\obj\Debug\Relógio Digital.exe
+C:\Users\Gonçalo\Source\Repos\Relogio-Digital-Finau\Rel-gio-Digital-2810-master\Rel-gio-Digital-2810-master\Relógio Digital\obj\Debug\Relógio Digital.pdb
